@@ -106,7 +106,7 @@ print(x)
 # that x is squared 6 times.
 #
 # Hint: Don't copy and paste the function 6 times!
-
+ 
 x = 4
 
 # Your answer here
