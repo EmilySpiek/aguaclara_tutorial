@@ -10,7 +10,7 @@ Write two sentences about yourself, each in a different paragraph.
 
 My name is Emily, and I am a sophomore chemical engineering student at Cornell University.
 
-I'm in the Stars Filter Theory subteam of AguaClara.
+I love my dogs.
 
 ## Headers
 
@@ -22,15 +22,15 @@ Make a 3rd level header with your name:
 
 Write 4 of your favorite words using each type of emphasis:
 
-*joy,* **crescendo,** ***hallelujah*** ~~effervescence~~
+*joy,* **crescendo,** ***um,*** ~~what~~
 
 ## Lists
 
 Make an ordered list of 3 things you hope to achieve this semester, and elaborate on them with sub items. Then, make an unordered list of 3 classes that you're taking this semester:
 
-1. I will be more involved on campus
-    - I will join new clubs
-    - I will make plans on the weekends
+1. I want to get more sleep
+    - I will finish my homework earlier
+    - I won't drink coffee in the afternoon
 2. I want to get a 4.0
     - I will study for prelims
     - I will finish all my work on time
@@ -56,7 +56,7 @@ Insert the Cornell seal image with:
 ![CornellSeal](/Images/Cornell_University_seal.svg.png)
 
 2
-![CornellSeal](https://github.com/AguaClara/aguaclara_tutorial/blob/master/Images/Cornell_University_seal.png?raw=true)
+![CornellSeal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/2000px-Cornell_University_seal.svg.png)
 
 ## Code Formatting
 
