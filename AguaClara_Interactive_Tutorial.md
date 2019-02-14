@@ -8,7 +8,7 @@
 The first one left my cursor where I put it and gave me a checkmark. The second moved my cursor to the next line down and gave me a checkmark. The last one gave no checkmark, but displayed a graph instead.
 
 ```python
-from aide_design.play import*
+from aguaclara.play import*
 
 xArray = u.Quantity(np.arange(0.1, 0.5, 0.01), u.m)
 
@@ -59,7 +59,7 @@ print(x)
 3. Using the NumPy package and `unit_registry`, calculate the value of sin(4) meters, and use the sigfig function from the unit unit_registry module in aide_design to get your answer to 2 sig-figs. *(Hint: You will need to import these packages. Remember how to do that?)*
 
 ```python
-from aide_design.play import*
+from aguaclara.play import*
 import numpy as np
 import unit_registry as u
 
@@ -114,7 +114,7 @@ def diffusion(T,e,r):
 6. You have a pipe with a radius of 0.2 m with water flowing in it at 2 m<sup>3</sup>/s. You want to see how the Reynolds Number changes as viscosity changes due to a change in temperature from 0 to 200<sup>o</sup>C. Create a plot of Reynolds Number against Temperature in Kelvin to show a relationship. Make sure your plot has a title, labeled axes, and axes grid. You can use functions from `physchem` like `pc.re_pipe` and `pc.viscosity_kinematic`. *(Hint: Make an array of temperatures to input into the `pc.viscosity_kinematic` function)*. Make sure to save you plot to your images folder in your personal repository, and display it below using `plt.show()` and a relative file path to the image.
 
 ```python
-from aide_design.play import*
+from aguaclara.play import*
 import physchem as pc
 radius=0.2 * u.m
 flow = 2 * u.m ** 3 / u.s
